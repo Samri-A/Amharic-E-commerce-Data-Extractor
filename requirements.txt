@@ -1,0 +1,7 @@
+pandas
+telethon
+asyncio
+etnltk
+matplotlib
+transformers
+dotenv
