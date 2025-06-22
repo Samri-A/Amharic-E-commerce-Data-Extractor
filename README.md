@@ -62,9 +62,3 @@ Amharic-E-commerce-Data-Extractor/
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to the project, please fork the repository and submit a pull request. Make sure to follow the coding standards and include tests for any new features.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Acknowledgments
-- Thanks to the open-source community for their contributions and support.
