@@ -5,3 +5,6 @@ etnltk
 matplotlib
 transformers
 dotenv
+datasets
+sklearn
+torch
